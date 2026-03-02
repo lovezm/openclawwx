@@ -82,7 +82,6 @@ API Key（bot_xxx:secret）: b******************
 
 
 请我喝蜜雪
-![3a8685b9f6660df9706496d99d01166c](https://github.com/user-attachments/assets/3f7a8993-ac55-40a7-a4d0-0340e59c868b)
-
+<img width="344" height="344" alt="image" src="https://github.com/user-attachments/assets/3f7a8993-ac55-40a7-a4d0-0340e59c868b" />
 
 
