@@ -1,6 +1,7 @@
 # 🦞 iopenclawwx
 
-![16181a6f94a93da778ca096235f2ff8b](https://github.com/user-attachments/assets/595044dc-2de7-4d87-8a8d-8b49c6515dba)
+<img width="550" height="160" alt="image" src="https://github.com/user-attachments/assets/1d4ca31a-1572-499b-ba51-504c23949fa5" />
+
 
 本项目主要是解决openclaw接入微信
 
